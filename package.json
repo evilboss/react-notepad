@@ -1,0 +1,32 @@
+{
+    "name": "testjob",
+    "version": "0.1.0",
+    "private": true,
+    "engines": {
+        "npm": "5.6.0",
+        "node": "9.11.1"
+    },
+    "dependencies": {
+        "antd": "^3.5.4",
+        "axios": "^0.18.0",
+        "base64-arraybuffer": "^0.1.5",
+        "draft-js": "^0.10.5",
+        "draftjs-to-html": "^0.8.4",
+        "npm": "^6.1.0",
+        "prop-types": "^15.6.1",
+        "react": "^16.4.0",
+        "react-dom": "^16.4.0",
+        "react-draft-wysiwyg": "^1.12.13",
+        "react-redux": "^5.0.7",
+        "react-router-dom": "^4.2.2",
+        "react-scripts": "1.1.4",
+        "redux": "^4.0.0",
+        "redux-thunk": "^2.3.0"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    }
+}

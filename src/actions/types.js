@@ -1,0 +1,10 @@
+export const GET_NOTE = "GET_NOTE";
+export const GET_NOTES = "GET_NOTES";
+export const GET_NOTETYPE = "GET_NOTETYPE";
+export const GET_REASON = "GET_REASON";
+export const NOTE_LOADING = "NOTE_LOADING";
+export const PATIENT_LOADING = "PATIENT_LOADING";
+export const GET_PATIENT = "GET_PATIENT";
+export const ADD_NOTE = "ADD_NOTE";
+export const SUCCESS_NOTE = "SUCCESS_NOTE";
+export const TOGGLE_SUCCESS = "TOGGLE_SUCCESS";
