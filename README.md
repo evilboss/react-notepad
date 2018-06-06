@@ -1,15 +1,11 @@
 ## Install dependencies
 
 ```
-npm install
+yarn install
 ```
 
 ## Start development server
 
 ```
-npm start
+yarn run start
 ```
-
-## Demo
-
-https://jade-test-job.herokuapp.com
